@@ -1,4 +1,4 @@
-// Functionize Caught Speeding Start Code
+// Functionize Caught Speeding
 
 // Determine Tickets Button Click Event
 document.getElementById('btn').addEventListener('click', btnClicked);
